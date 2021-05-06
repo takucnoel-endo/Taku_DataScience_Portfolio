@@ -1,5 +1,6 @@
+***Click here to see detail***
 # [Project1: Food Nutrition K-Means Clustering Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
-***Click above to see detail***
+
 * Programming language: python
 * IDE: Jupyter Notebook 
 # 
