@@ -3,7 +3,7 @@
 **Info**
 * Programming language: python
 * IDE: Jupyter Notebook 
-#  
+
 **Summary**
 * Performed a k-means clustering analysis on food nutrition data that I aqquired from kaggle.com.  
 * Feature engineered, cleaned, and scaled data using packages including pandas, numpy, and sklearn preprocessing. 
