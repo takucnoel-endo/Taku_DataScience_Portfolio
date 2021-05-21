@@ -19,3 +19,14 @@
 **Summary**
 * Objective 1: What are the variables that impacts company's lead time, and how? Can we predict company product lead time based on past data? 
 * Objective 2: Can we predict whether certain order might be in a risk of late delivery? 
+
+
+# [Operational/Analytical Database Development Imaginary Business](https://github.com/takucnoel-endo/Taku-s_HornShop_DataDases)   
+**Info**
+* Programming language: SQL
+* IDE: DBeaver 
+
+**Summary**
+* Gathered database requirements.
+* Created a conceptual and logical database model with ERD Plus.
+* Created an operational and analytical databases based on the database model. 
