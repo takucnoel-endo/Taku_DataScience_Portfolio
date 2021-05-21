@@ -1,5 +1,5 @@
 ***Click below to see detail***  
-[Food Nutrition K-Means Clustering Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
+# [Food Nutrition K-Means Clustering Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
 **Info**
 * Programming language: python
 * IDE: Jupyter Notebook 
@@ -11,7 +11,7 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-[Supply Chain Lead Time Multivariate Linear Regression](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
+# [Supply Chain Lead Time Multivariate Linear Regression](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
