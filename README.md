@@ -12,8 +12,8 @@
 * Applied k-means algorythm using sklearn clustering package. 
 
 ***Click below to see detail***  
- # [Supply Chain Lead Time Multivariate Linear Regression](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
- **Info**
+# [Supply Chain Lead Time Multivariate Linear Regression](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
+**Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
 
