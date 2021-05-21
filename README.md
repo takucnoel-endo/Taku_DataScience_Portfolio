@@ -11,7 +11,7 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-# [Supply Chain Lead Time Multivariate Linear Regression](https://github.com/takucnoel-endo/SupplyChain-Multivariate-Linear-Regression)   
+# [Supply Chain Lead Time Multivariate Linear Regression / Predicting Late Delivery Risk with Tree Based Model](https://github.com/takucnoel-endo/SupplyChain-Multivariate-Linear-Regression)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
