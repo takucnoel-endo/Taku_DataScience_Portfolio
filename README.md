@@ -19,6 +19,3 @@
 **Summary**
 * Objective 1: What are the variables that impacts company's lead time, and how? Can we predict company product lead time based on past data? 
 * Objective 2: Can we predict whether certain order might be in a risk of late delivery? 
-* Performed multivariate linear regression model on dataset that I aqquired from kaggle.com
-* Feature engineered, and cleaned original data. 
-* Performed exploratory analysis on the cleaned dataset. 
