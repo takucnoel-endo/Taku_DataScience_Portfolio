@@ -11,14 +11,13 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-# [Sales Multivariate Linear Regression / Supply Chain Late Delivery Risk Random Forest Model](https://github.com/takucnoel-endo/SupplyChain-Multivariate-Linear-Regression)   
+# [Supply Chain Late Delivery Risk Random Forest Classification](https://github.com/takucnoel-endo/SupplyChain-Multivariate-Linear-Regression)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
 
 **Summary**
-* Objective 1: What are the variables that impacts company's lead time, and how? Can we predict company product lead time based on past data? 
-* Objective 2: Can we predict whether certain order might be in a risk of late delivery? 
+* Objective: Can we predict whether certain order might be in a risk of late delivery? 
 
 
 # [Operational/Analytical Database Development Imaginary Business](https://github.com/takucnoel-endo/Taku-s_HornShop_DataDases)   
