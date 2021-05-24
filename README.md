@@ -11,7 +11,7 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-# [Supply Chain Late Delivery Risk Random Forest Classification](https://github.com/takucnoel-endo/SupplyChain-Multivariate-Linear-Regression)   
+# [Supply Chain Late Delivery Risk Random Forest Classification](https://github.com/takucnoel-endo/SupplyChain-RandomForest)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
