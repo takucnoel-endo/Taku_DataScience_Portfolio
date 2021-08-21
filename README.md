@@ -19,7 +19,7 @@
 **Summary**
 * Objective: Can we predict whether certain order might be in a risk of late delivery? 
 
-# [API Financial Data Extraction / TimeSeries Data Visualization](https://github.com/takucnoel-endo/Financial-DataExtraction-Visualization)   
+# [API Financial Market Data Extraction / TimeSeries Data Visualization](https://github.com/takucnoel-endo/Financial-DataExtraction-Visualization)   
 **Info**
 * Programming language: python
 * IDE: VS Code(Data Extraction, Data Standerdization), Jupyter Notebook(Visualization) 
