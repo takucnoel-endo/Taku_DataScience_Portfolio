@@ -1,4 +1,14 @@
 ***Click below to see detail***  
+# [House Price Regression](https://github.com/takucnoel-endo/HouseSalePrice_Prediction)
+**Info**
+* Programming Language: R
+* IDE: R-Studio
+
+**Summary**
+* Went through detailed data cleaning, feature engineering, accompanied by data visualization.
+* Regression model using OLS, Shrinckage Models, Tree, Random Forest, Bagging, Boosting, and Support Vector Machine.
+* Tested all models on pretraining data and chose the best model for final prediction for submission.
+
 # [Food Nutrition K-Means Clustering Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
 **Info**
 * Programming language: python
@@ -11,7 +21,7 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-# [Supply Chain Late Delivery Risk Random Forest Classification](https://github.com/takucnoel-endo/SupplyChain-RandomForest)   
+# [Supply Chain Late Delivery Risk Classification](https://github.com/takucnoel-endo/SupplyChain-RandomForest)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
