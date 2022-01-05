@@ -9,7 +9,7 @@
 * Regression model using OLS, Shrinckage Models, Tree, Random Forest, Bagging, Boosting, and Support Vector Machine.
 * Tested all models on pretraining data and chose the best model for final prediction for submission.
 
-# [Food Nutrition K-Means Clustering Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
+# [Food Nutrition Analysis](https://github.com/takucnoel-endo/Food_Futrition_K-means)   
 **Info**
 * Programming language: python
 * IDE: Jupyter Notebook 
@@ -21,7 +21,7 @@
 * Optimized hyperparameter(k) using elbow method
 * Applied k-means algorythm using sklearn clustering package. 
 
-# [Supply Chain Late Delivery Risk Classification](https://github.com/takucnoel-endo/SupplyChain-RandomForest)   
+# [Supply Chain Delivery Status Prediction](https://github.com/takucnoel-endo/SupplyChain-RandomForest)   
 **Info**
 * Programming language: python
 * IDE: Spyder(Data Cleaning, Model Building), Jupyter Notebook(EDA) 
