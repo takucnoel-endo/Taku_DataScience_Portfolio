@@ -1,5 +1,5 @@
 ***Click below to see detail***  
-# [House Price Regression](https://github.com/takucnoel-endo/HouseSalePrice_Prediction)
+# [House Price Prediction](https://github.com/takucnoel-endo/HouseSalePrice_Prediction)
 **Info**
 * Programming Language: R
 * IDE: R-Studio
